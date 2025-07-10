@@ -51,6 +51,8 @@ PostgreSQL 15 or higher.
 
 # output
 
+<img width="489" height="222" alt="image" src="https://github.com/user-attachments/assets/73f64150-e4d2-4f52-b77b-8c93bc448146" />
+
 
 # Contactes
 Name: Shraddha Nagorao Shikare
